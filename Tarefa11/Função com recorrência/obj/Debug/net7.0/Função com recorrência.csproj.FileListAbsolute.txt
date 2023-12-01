@@ -1,0 +1,14 @@
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\bin\Debug\net7.0\Função com recorrência.exe
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\bin\Debug\net7.0\Função com recorrência.deps.json
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\bin\Debug\net7.0\Função com recorrência.runtimeconfig.json
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\bin\Debug\net7.0\Função com recorrência.dll
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\bin\Debug\net7.0\Função com recorrência.pdb
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\Função com recorrência.GeneratedMSBuildEditorConfig.editorconfig
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\Função com recorrência.AssemblyInfoInputs.cache
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\Função com recorrência.AssemblyInfo.cs
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\Função com recorrência.csproj.CoreCompileInputs.cache
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\Função com recorrência.dll
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\refint\Função com recorrência.dll
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\Função com recorrência.pdb
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\Função com recorrência.genruntimeconfig.cache
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função com recorrência\obj\Debug\net7.0\ref\Função com recorrência.dll

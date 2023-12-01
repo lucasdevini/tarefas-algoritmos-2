@@ -1,0 +1,14 @@
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\bin\Debug\net7.0\Função recursiva.exe
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\bin\Debug\net7.0\Função recursiva.deps.json
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\bin\Debug\net7.0\Função recursiva.runtimeconfig.json
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\bin\Debug\net7.0\Função recursiva.dll
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\bin\Debug\net7.0\Função recursiva.pdb
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\Função recursiva.GeneratedMSBuildEditorConfig.editorconfig
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\Função recursiva.AssemblyInfoInputs.cache
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\Função recursiva.AssemblyInfo.cs
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\Função recursiva.csproj.CoreCompileInputs.cache
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\Função recursiva.dll
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\refint\Função recursiva.dll
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\Função recursiva.pdb
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\Função recursiva.genruntimeconfig.cache
+D:\Area de trabalho\Tarefas Ítalo\Tarefa11\Função recursiva\obj\Debug\net7.0\ref\Função recursiva.dll
