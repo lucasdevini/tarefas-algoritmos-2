@@ -1,6 +1,6 @@
 ﻿class Program
 {
-    static int Fib(int n)
+    static long Fib(int n)
     {
         if (n < 2)
             return n;
@@ -15,7 +15,7 @@
         if (int.TryParse(Console.ReadLine(), out int userInput))
         {
             DateTime startTime = DateTime.Now;
-            int resultado = Fib(userInput);
+            long resultado = Fib(userInput);
             DateTime endTime = DateTime.Now;
 
             TimeSpan executionTime = endTime - startTime;
