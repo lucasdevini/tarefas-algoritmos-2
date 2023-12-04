@@ -12,3 +12,17 @@ D:\Area de trabalho\Tarefas Ítalo\Tarefa15\obj\Debug\net7.0\refint\Tarefa15.dll
 D:\Area de trabalho\Tarefas Ítalo\Tarefa15\obj\Debug\net7.0\Tarefa15.pdb
 D:\Area de trabalho\Tarefas Ítalo\Tarefa15\obj\Debug\net7.0\Tarefa15.genruntimeconfig.cache
 D:\Area de trabalho\Tarefas Ítalo\Tarefa15\obj\Debug\net7.0\ref\Tarefa15.dll
+C:\projetos\tarefas-algoritmos-2\Tarefa15\bin\Debug\net7.0\Tarefa15.exe
+C:\projetos\tarefas-algoritmos-2\Tarefa15\bin\Debug\net7.0\Tarefa15.deps.json
+C:\projetos\tarefas-algoritmos-2\Tarefa15\bin\Debug\net7.0\Tarefa15.runtimeconfig.json
+C:\projetos\tarefas-algoritmos-2\Tarefa15\bin\Debug\net7.0\Tarefa15.dll
+C:\projetos\tarefas-algoritmos-2\Tarefa15\bin\Debug\net7.0\Tarefa15.pdb
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\Tarefa15.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\Tarefa15.AssemblyInfoInputs.cache
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\Tarefa15.AssemblyInfo.cs
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\Tarefa15.csproj.CoreCompileInputs.cache
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\Tarefa15.dll
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\refint\Tarefa15.dll
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\Tarefa15.pdb
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\Tarefa15.genruntimeconfig.cache
+C:\projetos\tarefas-algoritmos-2\Tarefa15\obj\Debug\net7.0\ref\Tarefa15.dll

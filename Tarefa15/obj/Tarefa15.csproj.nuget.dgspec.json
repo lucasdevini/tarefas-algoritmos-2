@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Area de trabalho\\Tarefas Ítalo\\Tarefa15\\Tarefa15.csproj": {}
+    "C:\\projetos\\tarefas-algoritmos-2\\Tarefa15\\Tarefa15.csproj": {}
   },
   "projects": {
-    "D:\\Area de trabalho\\Tarefas Ítalo\\Tarefa15\\Tarefa15.csproj": {
+    "C:\\projetos\\tarefas-algoritmos-2\\Tarefa15\\Tarefa15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Area de trabalho\\Tarefas Ítalo\\Tarefa15\\Tarefa15.csproj",
+        "projectUniqueName": "C:\\projetos\\tarefas-algoritmos-2\\Tarefa15\\Tarefa15.csproj",
         "projectName": "Tarefa15",
-        "projectPath": "D:\\Area de trabalho\\Tarefas Ítalo\\Tarefa15\\Tarefa15.csproj",
+        "projectPath": "C:\\projetos\\tarefas-algoritmos-2\\Tarefa15\\Tarefa15.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Area de trabalho\\Tarefas Ítalo\\Tarefa15\\obj\\",
+        "outputPath": "C:\\projetos\\tarefas-algoritmos-2\\Tarefa15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

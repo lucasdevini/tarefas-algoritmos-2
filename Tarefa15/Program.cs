@@ -2,10 +2,10 @@
 
 class Program
 {
+    const int Maxn = 10;
+
     static void Main()
     {
-        const int Maxn = 10;
-
         int i, j, k, h, n, temp;
         int[] b = new int[Maxn + 1];
         int[,] m = new int[Maxn, Maxn];
@@ -14,11 +14,9 @@ class Program
         n = int.Parse(Console.ReadLine());
 
         Console.Write("Dimensoes das matrizes: ");
-        string[] dimensionsInput = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
-
         for (i = 0; i <= n; i++)
         {
-            b[i] = int.Parse(dimensionsInput[i]);
+            b[i] = int.Parse(Console.ReadLine());
         }
 
         for (i = 0; i < n; i++)
